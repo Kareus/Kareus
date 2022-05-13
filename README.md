@@ -17,7 +17,7 @@ I've been working on my custom game framework, and uploading some stuff I develo
 
 - Baekjoon / solved.ac (Problem Solving)
 
-  - baekjoon ID : [kareus](acmicpc.net/user/kareus)
+  - baekjoon ID : [kareus](https://acmicpc.net/user/kareus)
 
   - solved.ac :
 
