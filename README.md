@@ -9,6 +9,7 @@ I've been working on my custom game framework, and uploading some stuff I develo
 - Language 
   - Almost C++ for Games, Problem Solving and others.
   - A little bit of Python3 for Deep Learning
+  - Interested in Sound Processing.
   
 - Website
   - My Dev Blog : https://kareus.tistory.com : my dev log is here
@@ -26,4 +27,4 @@ I've been working on my custom game framework, and uploading some stuff I develo
 - Contact : kareus1@gmail.com | kareus1@khu.ac.kr | sayrlftns@naver.com
 
   - I recommend you to contact me via gmail.
-  - Well... actually why contacting me? 🤔
+  - 🤔
