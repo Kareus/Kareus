@@ -24,7 +24,7 @@ I've been working on my custom game framework, and uploading some stuff I develo
 
     ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kareus)
 
-- Contact : kareus1@gmail.com | kareus1@khu.ac.kr | sayrlftns@naver.com
+- Contact : kareus1@gmail.com | sayrlftns@naver.com
 
   - I recommend you to contact me via gmail.
   - 🤔
