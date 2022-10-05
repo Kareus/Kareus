@@ -4,8 +4,6 @@ I am Kareus, an indie game programmer and musician.
 
 I've been working on my custom game framework, and uploading some stuff I developed while working on it here.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kareus)](https://github.com/Kareus)
-
 - Language 
   - Almost C++ for Games, Problem Solving and others.
   - A little bit of Python3 for Deep Learning
