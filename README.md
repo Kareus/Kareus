@@ -4,7 +4,7 @@ I am Kareus, an indie game programmer and musician.
 
 I've been working on my custom game framework, and uploading some stuff I developed while working on it here.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kareus)](https://github.com/Kareus)
 
 - Language 
   - Almost C++ for Games, Problem Solving and others.
@@ -22,7 +22,7 @@ I've been working on my custom game framework, and uploading some stuff I develo
 
   - solved.ac :
 
-    ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kareus)
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kareus)](https://solved.ac/kareus)
 
 - Contact : kareus1@gmail.com | sayrlftns@naver.com
 
